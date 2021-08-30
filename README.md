@@ -21,4 +21,10 @@ popnetwork example(5:40):
 
 https://www.bilibili.com/video/BV1aX4y1N7fi?p=32
 
+# change over time based on the distance
+
+video example:
+
+https://www.bilibili.com/video/BV1aX4y1N7fi?p=36
+
 
